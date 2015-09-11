@@ -11,6 +11,19 @@ September 11th, 2015
 
 5.) The linux kernel is currently licensed uner the GNU General Public License (GPL), version 2. That means that the modifications to the linux kernel that are published by other users are available for distribution to other users under the same license/terms. This amount of control is important when developing a very popular project so that all work/modifications done are more than not, to enhance the user experience. An interesting thing to note is that Linux offers the use of its trademarked name in modifications free of charge, possibly to enhance brand recognition.
 
-6.) GPL, LGPL, Apache/BSD 
+6 & 7.) GPL, LGPL, Apache/BSD 
 
-	for developer, for company, and for common good
+	for developer - not Apache (explicitly restricts use of trademarks), LGPL (Library may be used in non-open source software)
+	for company - not GPL (does not allow sublicensing), LGPL (Library may be used in non-open source software), Apache (restriction of trademark helps them)
+	for common good - Apache & GPL (requires state changes), GPL (disclose open source code), BSD (no warranty/very permissive)
+
+
+8.)
+
+9.) Partner: Kevin Zhang
+
+	Project: Improving Dokapon the Board Game
+
+	Stack: Node.js
+
+	License: LGPL?
