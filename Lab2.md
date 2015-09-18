@@ -24,6 +24,6 @@ September 11th, 2015
 
 	Project: Improving Dokapon the Board Game
 
-	Stack: Node.js
+	Stack: Node.js (picked b/c it's just a stack that we wanted to learn)
 
-	License: LGPL?
+	License: MIT (We want our software to be permissive and for people to be able to study the source code. We also want for any future projects that use our code to adhere to these permissions.)
