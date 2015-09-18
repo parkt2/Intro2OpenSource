@@ -1,6 +1,12 @@
 September 11th, 2015
 
-1.)
+1.) The author repeatedly stresses that "free software" does not necessarily mean not having to pay for the software, but rather the freedoms that a person can do with (or to) the software. 
+The four freedoms the author describes in the article are:
+	1. The freedom to use the program for any use.
+	2. The freedom to study the source code of a program and modify how it works.
+	3. The freedom to share this software with other people.
+	4. The freedom to share your own modified version of this software with other people.
+	For freedoms 2 & 4, access to the source code is implied.
 
 
 2.) First off, it's important to choose a license because a program that does not have a license explicitly associated with itself, the licensing is considered "all rights reserved". However, just choosing any license without careful thought as a developer can be just as bad. A license allows a developer choice in how they may see their software grow and evolve down the road. Questions such as if you want your software to be available for commercial development, if you want people to be able to add future restrictions to the software, or how you want your software to be packaged are questions that should be considered.
