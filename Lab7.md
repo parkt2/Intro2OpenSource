@@ -62,27 +62,27 @@ Notes: Looks like gitstats duped 3 people, using their full name and their githu
 
 ---
 
-#Chrometana ()
+#Chrometana (Oscar Pullan)
 
 Github:
 
-\# contributors: 
+\# contributors: 6 
 
-\# LoC: 
+\# LoC: 2115
 
-First commit:
+First commit: July 2015
 
-Last commit: 
+Last commit: October 2015
 
 Gitstats:
 
 \# contributors: 
 
-\# LoC: 
+\# LoC: 384
 
-First commit:
+First commit: July 2015
 
-Last commit: 
+Last commit: October 2015
 
 Notes:
 
@@ -90,27 +90,27 @@ Notes:
 
 ---
 
-#Survive Commons ()
+#Survive Commons (Ian Huntress)
 
-Github:
+Github: 
 
-\# contributors: 
+\# contributors: 2
 
-\# LoC: 
+\# LoC: 18759
 
-First commit: 
+First commit: June 2015
 
-Last commit: 
+Last commit: October 2015
 
 Gitstats:
 
-\# contributors: 
+\# contributors: 3
 
-\# LoC: 
+\# LoC: 18766
 
-First commit: 
+First commit: June 2015
 
-Last commit: 
+Last commit: October 2015
 
 Notes:
 
@@ -118,27 +118,27 @@ Notes:
 
 ---
 
-#YAPS ()
+#YAPS (Ryan Sherman)
 
 Github:
 
-\# contributors:
+\# contributors: 3
 
-\# LoC: 
+\# LoC: 2362
 
-First commit: 
+First commit: 9/22/15
 
-Last commit: 
+Last commit:  10/23/15
 
 Gitstats:
 
-\# contributors: 
+\# contributors: 3
 
-\# LoC: 
+\# LoC: 2363
 
-First commit: 
+First commit: 9/22/15
 
-Last commit: 
+Last commit:  10/23/15
 
 Notes:
 
