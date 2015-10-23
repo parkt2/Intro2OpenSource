@@ -32,22 +32,114 @@ Notes:
 
 ![Gource video](https://youtu.be/32zi--DmcMs)
 
+---
+
 #Lapsus Linguae (Kevin Zhang)
 
 Github:
+
 \# contributors: 7
+
 \# LoC: 167
 
 First commit: 2015-01-31
+
 Last commit: 2015-10-20
 
 Gitstats:
+
 \# contributors: 10
+
 \# LoC: 169
 
 First commit: 2015-01-31
+
 Last commit: 2015-10-20
 
 Notes: Looks like gitstats duped 3 people, using their full name and their github username as two different people. No idea where the 2 extra lines of code come from.
 
 ![Gource video](https://youtu.be/94k8VsHiqBA)
+
+---
+
+#Chrometana ()
+
+Github:
+
+\# contributors: 
+
+\# LoC: 
+
+First commit:
+
+Last commit: 
+
+Gitstats:
+
+\# contributors: 
+
+\# LoC: 
+
+First commit:
+
+Last commit: 
+
+Notes:
+
+![Gource video]()
+
+---
+
+#Survive Commons ()
+
+Github:
+
+\# contributors: 
+
+\# LoC: 
+
+First commit: 
+
+Last commit: 
+
+Gitstats:
+
+\# contributors: 
+
+\# LoC: 
+
+First commit: 
+
+Last commit: 
+
+Notes:
+
+![Gource video]()
+
+---
+
+#YAPS ()
+
+Github:
+
+\# contributors:
+
+\# LoC: 
+
+First commit: 
+
+Last commit: 
+
+Gitstats:
+
+\# contributors: 
+
+\# LoC: 
+
+First commit: 
+
+Last commit: 
+
+Notes:
+
+![Gource video]()
