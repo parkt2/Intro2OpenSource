@@ -86,7 +86,7 @@ Last commit:
 
 Notes:
 
-![Gource video]()
+![Gource video](https://www.youtube.com/watch?v=uXloRdn8X2Q)
 
 ---
 
@@ -142,4 +142,4 @@ Last commit:
 
 Notes:
 
-![Gource video]()
+![Gource video](https://youtu.be/KeuoIvDDwKk)
