@@ -4,26 +4,31 @@ Lab7
 #EveOnlineMarketingAnalysisTool (Tae Park):
 
 Using Github:
+
 \# of contributors: 	6
+
 \# of lines of code: 344957
 
 first commit:		Feb 10th
+
 last commit:		Jun 12th
 
 Using Gitstats:
+
 \# of contributers: 	8
+
 \# of lines of code: 345052
 
 first commit:	    2015-02-10 (by Blake Lingenau & funnymanpatrick)
+
 last commit:		2015-06-12 (Patrick Hesselbach & Josh Goldberg)
 
 Notes:
-	(1) Difference of 2 contributors when running gitstats,
-		Authors "MikeMacelletti" and "Mike Macelletti" were considered separate 
-		authors by gitstats. Authors "Blake Lingenau" and "dlingenau" are most
-		likely the same person as well.
-
-	(2) Negligible difference in lines of code
+(1) Difference of 2 contributors when running gitstats,
+	Authors "MikeMacelletti" and "Mike Macelletti" were considered separate 
+	authors by gitstats. Authors "Blake Lingenau" and "dlingenau" are most
+	likely the same person as well.
+(2) Negligible difference in lines of code
 
 ![Gource video](https://youtu.be/32zi--DmcMs)
 
