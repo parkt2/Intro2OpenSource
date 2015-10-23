@@ -4,7 +4,6 @@ Lab7
 #EveOnlineMarketingAnalysisTool (Tae Park):
 
 Using Github:
-===
 \# of contributors: 	6
 \# of lines of code: 344957
 
@@ -12,7 +11,6 @@ first commit:		Feb 10th
 last commit:		Jun 12th
 
 Using Gitstats:
-===
 \# of contributers: 	8
 \# of lines of code: 345052
 
@@ -32,7 +30,6 @@ Notes:
 #Lapsus Linguae (Kevin Zhang)
 
 Github:
-====
 \# contributors: 7
 \# LoC: 167
 
@@ -40,7 +37,6 @@ First commit: 2015-01-31
 Last commit: 2015-10-20
 
 Gitstats:
-====
 \# contributors: 10
 \# LoC: 169
 
