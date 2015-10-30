@@ -30,7 +30,7 @@ Notes:
 	likely the same person as well.
 (2) Negligible difference in lines of code
 
-![Gource video](https://youtu.be/32zi--DmcMs)
+[Gource video](https://youtu.be/32zi--DmcMs)
 
 ---
 
@@ -58,7 +58,7 @@ Last commit: 2015-10-20
 
 Notes: Looks like gitstats duped 3 people, using their full name and their github username as two different people. No idea where the 2 extra lines of code come from.
 
-![Gource video](https://youtu.be/94k8VsHiqBA)
+[Gource video](https://youtu.be/94k8VsHiqBA)
 
 ---
 
@@ -86,7 +86,7 @@ Last commit: October 2015
 
 Notes:
 
-![Gource video](https://www.youtube.com/watch?v=uXloRdn8X2Q)
+[Gource video](https://www.youtube.com/watch?v=uXloRdn8X2Q)
 
 ---
 
@@ -114,7 +114,7 @@ Last commit: October 2015
 
 Notes:
 
-![Gource video]()
+[Gource video](https://www.youtube.com/watch?v=Yptb4BeRS6c)
 
 ---
 
@@ -142,4 +142,4 @@ Last commit:  10/23/15
 
 Notes:
 
-![Gource video](https://youtu.be/KeuoIvDDwKk)
+[Gource video](https://youtu.be/KeuoIvDDwKk)
