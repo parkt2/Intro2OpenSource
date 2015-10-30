@@ -108,6 +108,8 @@ smart
 Shortest path between pound and marks is
 None
 
+----
+
 I then edited the code (words1.py) to work on a list of 4-letter words:
 These are the following results on two tests:
 
@@ -145,7 +147,7 @@ have
 
 hate
 
-
+----
 
 There is a variation of the word ladder game where we consider two words(nodes) are 
 adjacent if the number of letters that differ (not necessarily in the same position) by 1.
